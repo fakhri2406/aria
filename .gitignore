@@ -23,6 +23,7 @@ Thumbs.db
 .idea/
 .vscode/
 .claude/
+CLAUDE.md
 *.swp
 *.swo
 *~
@@ -76,3 +77,7 @@ pip-delete-this-directory.txt
 
 # Ruff
 .ruff_cache/
+
+# Reports output
+reports/
+!reports/.gitkeep
