@@ -3,4 +3,7 @@
 from aria.mcp.client import MCPClientManager
 from aria.mcp.registry import MCPToolRegistry
 
-__all__ = ["MCPClientManager", "MCPToolRegistry"]
+__all__ = [
+    "MCPClientManager",
+    "MCPToolRegistry"
+]

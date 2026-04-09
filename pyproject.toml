@@ -17,6 +17,8 @@ dependencies = [
     "pydantic ~=2.11",
     "pydantic-settings ~=2.9",
     "python-dotenv ~=1.1",
+    "sentence-transformers ~=3.4",
+    "torch ~=2.6",
     "tavily-python ~=0.5",
     "arxiv ~=2.1",
 ]
