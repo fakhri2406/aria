@@ -30,7 +30,7 @@ dev = [
 ]
 
 [project.scripts]
-aria = "aria.cli:app"
+aria = "aria.__main__:app"
 
 [tool.setuptools.packages.find]
 include = ["aria*"]
